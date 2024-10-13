@@ -52,4 +52,9 @@ Le jeu de données utilisé, `Energy_consumption.csv`, comprend les variables su
 1. **Cloner le dépôt** :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-projet.git
+   git clone https://github.com/votre-utilisateur/Detection-dAnomalies-dans-les-Donnees-de-Consommation-Energetique.git
+
+
+## Auteur
+
+Ce projet a été réalisé par **ALOUI Ghaieth**, étudiant en **Mathématiques Appliquées et Modélisation** à **POLYTECH Nice Sophia** – **Université Côte d'Azur**
